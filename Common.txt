@@ -2,12 +2,12 @@ SUMMARY:
 --------
 Update => By:vkg-mca, Date:07-01-2020
 
-
 DETAILS:
 --------
 1. vkg-mca: Added initial file
 2. vkg-codefactory: added vkg-codefactory-1 file
 3. vkg-mca: added vkg-mca-1 file
-2. vkg-codefactory: added vkg-codefactory-2 file
-3. vkg-mca: added vkg-mca-2 file
-4. vkg-mca: added vkg-codefactory-3 file
+4. vkg-codefactory: added vkg-codefactory-2 file
+5. vkg-mca: added vkg-mca-2 file
+6. vkg-mca: added vkg-codefactory-3 file
+7. vkg-mca: added vkg-mca-3 file
